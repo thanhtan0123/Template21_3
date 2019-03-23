@@ -280,3 +280,30 @@ header>div>ul>li{
 .nephew_content3cc>span{
     color: #9f81a9;
 }
+.nephew_content3d>p{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.nephew_content3d>input{
+    background: #353535;
+    color: #999999;
+    margin:5px 0px 10px 0px;
+    border:none;
+    border-radius: 10px;
+    width: 220px;
+    height: 30px;
+    font-size: 13px;
+    padding-left: 10px;
+}
+.nephew_content3d>button{
+    width: 80px;
+    height:30px;
+    color: white;
+    background: #9f81a9;
+    font-size:13px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
